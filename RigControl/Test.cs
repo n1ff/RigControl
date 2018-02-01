@@ -47,7 +47,7 @@ namespace RigControl
             bool result = pro3.SendModeData( mode );
 
             return result;
-            // Wait 5 second
+            // Wait 5 seconds
             //System.Threading.Thread.Sleep(5000);
 
 
