@@ -1,1 +1,1 @@
-# RigControl for ICOMPROIII
+# RigControl for ICOM 756 Pro III
